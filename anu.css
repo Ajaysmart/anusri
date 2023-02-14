@@ -1,0 +1,56 @@
+.cointainer1
+{
+    /* background-color: #91c8ff; */
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    width:100%;
+}
+.cointainer2
+{
+    background:#EBFAFF;
+}
+.heading 
+{
+    font-family: 'Sacramento', cursive;
+    color: #34353AA1;
+}
+td
+{
+    padding-top: 20%;
+   padding-left: 20%;
+    padding-bottom: 20%;
+   
+}
+.image
+{
+    padding-right: 30%;
+}
+hr {
+    border: dotted #34353AA1 4px;
+    border-bottom: none;
+    /* margin: 70px auto;
+    border-bottom: none;
+    width:30%;
+    text-align: center; */
+  }
+  .cointainer3
+  {
+    text-align: center;
+    background: #EBFAFF;
+
+  }
+  h1{
+    font-family: 'Cormorant Garamond', serif;
+
+  }
+  .book
+  {
+    position: absolute;
+    padding-left: 20%;
+    /* padding-bottom: 30%; */
+  }
+  .cointainer4
+  {
+    background: #F5F0F7;
+    text-align: center;
+  }
